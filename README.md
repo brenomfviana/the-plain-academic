@@ -47,7 +47,7 @@ Now copy some of the settings from this repo's *_config.yml* file to your own, a
 
 ## Authors
 
-- [**Breno Viana**](https://brenov.github.io/);
+- [**Breno Viana**](https://brenomfviana.github.io/);
 - [**Heiswayi Nrird**](https://heiswayi.nrird.com) (the author of [The Plain](https://github.com/heiswayi/the-plain)).
 
 See also the list of [contributors](https://github.com/brenov/the-plain-academic/graphs/contributors) who participated in the this project.
